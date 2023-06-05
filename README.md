@@ -4,7 +4,7 @@ Dans le cadre d’une évaluation pour l’obtention du titre Développeur web e
 
 Ce dépot concerne les documents annexes de ce projet.
 
-Pour en savoir plus sur la partie API, vous pouvez allez sur le dépôt suivant : [https://github.com/maeva-lnd/lqa_back-end](https://github.com/maeva-lnd/lqa_back-end)
+Pour en savoir plus sur la partie API, vous pouvez aller sur le dépôt suivant : [https://github.com/maeva-lnd/lqa_back-end](https://github.com/maeva-lnd/lqa_back-end)
 
-Pour en savoir plus sur la partie front, vous pouvez allez sur le dépôt suivant : [https://github.com/maeva-lnd/lqa_front-end](https://github.com/maeva-lnd/lqa_front-end)
+Pour en savoir plus sur la partie front, vous pouvez aller sur le dépôt suivant : [https://github.com/maeva-lnd/lqa_front-end](https://github.com/maeva-lnd/lqa_front-end)
 
